@@ -42,3 +42,40 @@
 
 
 번호가 없는거 : 
+     ---
+     
+     
+![](https://github.com/DaeyongLim/py_20_1130/blob/main/sample/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg)
+
+
+![](./다운로드 (1).jpg)
+
+img 태그
+
+<img src='./sample/다운로드.jpg' width='200'>
+                                       
+                                     
+# A 링크
+
+[사진이미지](https://github.com/DaeyongLim/py_20_1130/blob/main/sample/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg)
+
+
+# 코드
+
+```
+# 코드 블럭
+
+def hello():
+  print("hello")
+```
+
+인라인 코드
+
+파이썬 함수는 `def` 키워드로 연산자를 지정해서 함수를 선언합니다.
+
+# 테이블
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
