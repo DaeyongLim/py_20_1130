@@ -48,7 +48,7 @@
 ![](https://github.com/DaeyongLim/py_20_1130/blob/main/sample/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg)
 
 
-![](./다운로드 (1).jpg)
+![](./sample/다운로드.jpg)
 
 img 태그
 
