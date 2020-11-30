@@ -52,7 +52,7 @@
 
 img 태그
 
-<img src='./sample/다운로드.jpg' width='200'>
+!<img src='./sample/다운로드.jpg' width='200'>
                                        
                                      
 # A 링크
